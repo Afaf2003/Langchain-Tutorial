@@ -78,7 +78,7 @@ langchain-app/
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/langchain-app.git
+git clone https://github.com/Afaf2003/Langchain-Tutorial.git
 cd langchain-app
 
 # Create and activate a virtual environment
@@ -213,7 +213,7 @@ Pull requests are welcome. For any major changes, please open an issue first to 
 
 ## 📬 Contact
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@yourusername](https://github.com/Afaf2003)
+- Email: khan.afafahmed@gmail.com
 
 ---
