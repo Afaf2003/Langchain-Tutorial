@@ -79,7 +79,7 @@ langchain-app/
 ```bash
 # Clone this repository
 git clone https://github.com/Afaf2003/Langchain-Tutorial.git
-cd langchain-app
+cd Langchain-Tutorial
 
 # Create and activate a virtual environment
 python -m venv venv
@@ -213,7 +213,7 @@ Pull requests are welcome. For any major changes, please open an issue first to 
 
 ## 📬 Contact
 
-- GitHub: [@yourusername](https://github.com/Afaf2003)
+- GitHub: [Afaf2003](https://github.com/Afaf2003)
 - Email: khan.afafahmed@gmail.com
 
 ---
