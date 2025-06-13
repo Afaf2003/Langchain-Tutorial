@@ -15,7 +15,7 @@ faiss-cpu
 arxiv
 wikipedia
 beautifulsoup4
-# text_splitters
 langchain_text_splitters
 langchain_ollama
 langchainhub
+langchain_groq
