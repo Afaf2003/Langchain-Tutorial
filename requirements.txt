@@ -12,3 +12,10 @@ bs4
 pypdf
 chromadb
 faiss-cpu
+arxiv
+wikipedia
+beautifulsoup4
+# text_splitters
+langchain_text_splitters
+langchain_ollama
+langchainhub
